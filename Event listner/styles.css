@@ -1,0 +1,65 @@
+.boxes {
+    padding: 50px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: rgb(69, 75, 109);
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgb(71, 114, 131));
+    margin-top: 100px;
+    margin-bottom: 30px;
+    margin-right: 160px;
+    position: relative;
+}
+
+body {
+    background-color: rgb(40, 40, 49);
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: -220px;
+}
+
+h1 {
+    color: rgb(235, 231, 225);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+    margin-top: -10px;
+}
+
+#main-heading {
+    color: rgb(235, 231, 225);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 0px;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+button {
+    border-radius: 10px;
+    border: none;
+    color: rgb(36, 30, 30);
+    background-color: rgb(145, 221, 240);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height: 300px;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: -60px;
+}
+
+.hidden-content {
+    position: absolute;
+    text-align: center;
+    text-align: justify;
+    text-decoration: none;
+    display: none;
+    font-size: 16px;
+    margin-top: 100px;
+    margin-left: -120px;
+    height: 200px;
+}
+
+.hidden-content.reveal-btn {
+    display: inline-block;
+}

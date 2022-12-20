@@ -1,0 +1,41 @@
+    body {
+        background-color: rgb(40, 40, 49);
+        text-align: center;
+        margin-bottom: 10px;
+        margin-left: -220px;
+        border-color: whitesmoke;
+        border-style: groove;
+        height: 680px;
+        width: auto;
+        margin: auto
+    }
+    
+    div {
+        border-color: whitesmoke;
+        border-style: groove;
+        height: 60%;
+        width: 50%;
+        margin: auto
+    }
+    
+    .div1 {
+        margin-top: 75px;
+        padding-bottom:
+    }
+    
+    .div2 {
+        margin-top: 120px;
+    }
+    
+    button {
+        border-radius: 10px;
+        border: none;
+        color: rgb(36, 30, 30);
+        background-color: rgb(145, 221, 240);
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        height: 30px;
+        font-size: 25px;
+        margin-top: 120px;
+    }
